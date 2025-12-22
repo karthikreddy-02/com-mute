@@ -1,0 +1,5 @@
+.env
+venv_py311/
+__pycache__/
+*.mp3
+*.ipynb
